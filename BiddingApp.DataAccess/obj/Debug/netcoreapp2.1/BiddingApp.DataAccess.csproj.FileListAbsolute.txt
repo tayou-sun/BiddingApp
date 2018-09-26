@@ -1,0 +1,9 @@
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\bin\Debug\netcoreapp2.1\BiddingApp.DataAccess.deps.json
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\bin\Debug\netcoreapp2.1\BiddingApp.DataAccess.dll
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\obj\Debug\netcoreapp2.1\BiddingApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\obj\Debug\netcoreapp2.1\BiddingApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\obj\Debug\netcoreapp2.1\BiddingApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\obj\Debug\netcoreapp2.1\BiddingApp.DataAccess.AssemblyInfo.cs
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\bin\Debug\netcoreapp2.1\BiddingApp.DataAccess.pdb
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\obj\Debug\netcoreapp2.1\BiddingApp.DataAccess.dll
+C:\Users\Екатерина Шайнурова\source\repos\BiddingApp\BiddingApp.DataAccess\obj\Debug\netcoreapp2.1\BiddingApp.DataAccess.pdb
